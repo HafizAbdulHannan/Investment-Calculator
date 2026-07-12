@@ -51,10 +51,13 @@ To run this project locally on your machine, follow these instructions:
 └── main.jsx             # Application entry point
 
 
-6. **👨‍💻 Author:**
+
+
+**👨‍💻 Author:**
    Hafiz Abdul Hannan
    **GitHub:** @HafizAbdulHannan
 
 
-7. **📜 License:**
+
+**📜 License:**
    This project is open-source and available under the MIT License.
